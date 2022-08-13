@@ -1,0 +1,247 @@
+body {
+    background-color: #777;
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+.container {
+    border: 1px solid red;
+    height: max-content;
+    
+
+
+
+}
+
+.container header,
+.container nav {
+    border: 1px solid red;
+    background-color: #ededed;
+    color: #777;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 12%;
+    margin-right: 12%;
+    height: 75px;
+
+}
+
+.container nav {
+
+
+    margin-bottom: 15px;
+}
+
+
+
+.container header>p,
+.container nav>p {
+    width: 90%;
+    padding: 24px;
+    margin: 10px;
+    color: #777;
+    text-align: center;
+    background: #ebebeb;
+
+
+
+
+
+
+
+}    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container section,
+.container aside {
+
+    border: 1px solid red;
+    background-color: #ebebeb;
+    color: #777;
+    text-align: center;
+    margin-left: 12%;
+    margin-right: 12%;
+    height: 300px;
+    box-sizing: border-box;
+    width: 313px;
+    
+}
+
+
+.container aside {
+    display: inline-block;
+    
+  
+
+   
+    
+}
+.container aside>p{
+
+font-size: 20px;
+padding-top: 50px;
+
+
+
+}
+
+
+
+
+.container section{
+margin-bottom: 15px;
+width: 550px;
+display: inline-block;
+
+
+
+
+}
+
+.container section>p{
+    margin-left: 15px;
+
+
+
+
+
+}
+
+.container article>p,h1,h2{
+    border: 1px solid #ffff03;
+
+
+
+}
+
+.container article>h2{
+
+
+
+    margin-top: 15px
+}
+
+
+.container article>h1{
+
+margin-top: 20px;
+
+
+}
+
+
+.container article{
+
+    background-color: #777;
+    color: #ebebeb;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-top: 40px;
+    padding-bottom: 20px;
+    height: 200px;
+}
+
+.container article>h1,h2{
+
+background-color: #ebebeb;
+color: #777;
+margin-left: 50px;
+margin-right: 50px;
+height: 55px;
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container footer{
+    border: 1px solid blue;
+   
+    text-align: center;
+    background-color: #ebebeb;
+    color: #777;
+    margin-left: 12%;
+    margin-right: 12%;
+    margin-bottom: 20px;
+    margin-top: 25px;
+    height: 75px;
+    clear: both;
+
+    
+}
+.container footer>p{
+
+font-size: 25px;
+padding: 20px;
+
+
+}
